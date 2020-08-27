@@ -8,3 +8,4 @@ Resolusi Saya kedepan
 7. selanjutnya menggabungkan database mysql dengan php
 8. membuat projetc sederhana
 8. memulai belajar penggunaan framework
+9. belajar framework bootstrap
