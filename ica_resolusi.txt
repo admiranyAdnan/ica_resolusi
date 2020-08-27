@@ -5,3 +5,6 @@ Resolusi Saya kedepan
 4. mempelajari lebih dalam tentang CSS
 5. mempelajari lebih dalam tentang java script
 6. memulai kembali belajar pemrograman php
+7. selanjutnya menggabungkan database mysql dengan php
+8. membuat projetc sederhana
+8. memulai belajar penggunaan framework
